@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "commonjs",
+    "strict": true,
+    "allowJs": true,
+    "alwaysStrict": true,
+    "sourceMap": true,
+    "declaration": true,
+    "noImplicitAny": true,
+    "outDir": "lib/js"
+  },
+  "include": [
+    "lib/ts"
+  ],
+  "exclude": [
+    "**/*.spec.ts"
+  ]
+}

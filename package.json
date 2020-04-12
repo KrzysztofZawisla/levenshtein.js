@@ -1,0 +1,24 @@
+{
+  "name": "levenshteinjs",
+  "version": "0.1.0",
+  "description": "",
+  "main": "./lib/js/index.js",
+  "types": "./lib/js/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KrzysztofZawisla/levenshtein.js"
+  },
+  "author": "Krzysztof Zawisła <snowdropcurvemaster@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "neon-cli": "^0.3.3"
+  },
+  "scripts": {
+    "install": "neon build --release",
+    "compile": "tsc --project tsconfig.json"
+  },
+  "devDependencies": {
+    "@types/node": "^13.11.1",
+    "typescript": "^3.8.3"
+  }
+}
