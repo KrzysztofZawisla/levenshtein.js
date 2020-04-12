@@ -1,5 +1,7 @@
 # levenshtein.js
 
+Library for Node.js that uses the simple Levenshtein algorithm.
+
 ## How to import
 
 Generated files targeted to ESNext as commonjs:
