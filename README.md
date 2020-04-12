@@ -1,6 +1,6 @@
 # levenshtein.js
 
-Library for Node.js that uses the simple Levenshtein algorithm.
+Library for Node.js that uses levenshtein-rs.
 
 ## How to import
 
