@@ -28,7 +28,7 @@ import levenshteinJs from 'levenshteinjs/ts';
 /**
    * Filter function returns filted collection by Levenshtein Algorithm.
    * @input string.
-   * @distance number - can't be bigger than 255 and lower than 0.
+   * @distance number.
    * @collection string[] - collection to search over.
    * @returns string[] - filtered collection.
   */
