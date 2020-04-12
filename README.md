@@ -37,5 +37,5 @@ levenshteinJs.filter(input: string, distance: number, collection: string[]): str
 
 ## Used libraries
 
-https://github.com/wooorm/levenshtein-rs
+https://github.com/wooorm/levenshtein-rs  
 https://github.com/neon-bindings/neon
